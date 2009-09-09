@@ -1,8 +1,8 @@
 YAPC-Asia-gfx
 
-gfx��YAPC::Asia 2009�Ŏg�p���鎑���ł��B���R�[�h�ƃX���C�h�C����т������̕�������Ȃ�܂��B
+gfxがYAPC::Asia 2009で使用する資料です。例題コードとスライド，およびいくつかの文書からなります。
 
-Magic-Example/ - �����typemap�̖��_���e�X�g�`���Œ񋟂��܂��B
+Magic-Example/ - 現状のtypemapの問題点をテスト形式で提供します。
 
-Magic-Watch/ - MAGIC hook methods�̗�ł��B
+Magic-Watch/ - MAGIC hook methodsの例です。
 
