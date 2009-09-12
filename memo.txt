@@ -1,0 +1,24 @@
+
+TODO?
+
+Moose::XS
+Mouse::XS
+
+MooseX::Class::Parameterized
+
+bug reports
+
+more something
+
+perlcore hacks:
+
+my $val = first(@array){ /foo/ };
+
+$iter->each(my $val) {
+	say $val;
+};
+
+$iter->each(my $val, sub{ say $val });
+
+(there are no conflicts)
+
