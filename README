@@ -1,21 +1,22 @@
 YAPC-Asia-gfx
 
-gfxがYAPC::Asia 2009で使用する資料です。例題コードとスライド，およびいくつかの文書からなります。
+gfxがYAPC::Asia 2009で使用した資料です。例題コードとスライド，およびいくつかの文書からなります。
 
 Magic-Example/*
 	現状のtypemapの問題点を指摘するコードをテスト形式で提供します。
 
 Magic-Watch/*
 	MAGIC hook methodsの例です。
+	perl Makefile.PL && makeのあとperl -Mblib example/*.plを実行するとMAGIC hoo methodsが呼び出されるタイミングを見ることができます。
 
 To be included:
 
-MagicIntro.pptx
+MagicIntro.ppt
 	「XS書きのためのPerl MAGIC入門」("Introduction to Perl MAGIC for XS writers")の発表スライドです。
 
 
-MHT.pptx
-	「Moose Hacking Guide」(LT)の発表スライドです。
+MooseHackingGuide.ppt
+	「Moose Hacking Guide」の発表スライドです。
 
 
 - Goro Fuji (gfx)
